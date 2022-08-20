@@ -1,6 +1,6 @@
 Flask>=2.2.2
 numpy>=1.23.1
-sklearn>=0.19.0
+sklearn>=1.1.2
 gunicorn>=58.1.0
 pandas>=1.16.0
 pickle>=4.0
