@@ -1,3 +1,6 @@
+/"*Student Placement Predictor Application*"/
+
+
 Introducing our Student Placement Predictor app: Powered by K-Nearest Neighbors (KNN) machine learning model.
 
 It evaluates student placement probabilities based on key metrics like CGPA, IQ, and profile score.
