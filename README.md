@@ -1,4 +1,4 @@
-/"*Student Placement Predictor Application*"/
+# Student Placement Predictor App
 
 
 Introducing our Student Placement Predictor app: Powered by K-Nearest Neighbors (KNN) machine learning model.
